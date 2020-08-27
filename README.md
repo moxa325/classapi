@@ -12,10 +12,14 @@ PostmanなどのAPIクライアントアプリケーションでGET/POST/PUT/DEL
 
 
 (エンドポイント)
+
 http://52.196.239.174:3000/api/class
 
 *プロセスは常時起動しておりますのでどなたでも私の時間割、および欠席回数を確認することができます。
 
 
 (使用している技術)
-動作環境：
+
+動作環境：AWS(EC2,RDS)
+言語：Node.js、Mysql
+使用npmパッケージ（Node.js）：Express,Bodyparser,mysql
