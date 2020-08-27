@@ -14,12 +14,12 @@ PostmanなどのAPIクライアントアプリケーションでGET/POST/PUT/DEL
 (エンドポイント)
 
 http://52.196.239.174:3000/api/class
+*プロセスは常時起動しております。
+
 
 
 (使用している技術)
 
 動作環境：AWS(EC2,RDS)
-
 言語：Node.js、Mysql
-
 使用npmパッケージ（Node.js）：Express,Bodyparser,mysql
