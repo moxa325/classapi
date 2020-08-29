@@ -14,6 +14,7 @@ PostmanなどのAPIクライアントアプリケーションでGET/POST/PUT/DEL
 <エンドポイント>
 
 http://52.196.239.174:3000/api/class
+＊プロセスは常時起動しております
 
 
 
@@ -24,4 +25,4 @@ http://52.196.239.174:3000/api/class
 
 言語：Node.js、Mysql
 
-使用npmパッケージ（Node.js）：Express, Bodyparser, mysql
+使用npmパッケージ（Node.js）：Express, Bodyparser, mysql, forever
